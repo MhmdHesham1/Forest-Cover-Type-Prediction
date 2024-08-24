@@ -52,7 +52,7 @@ The CatBoost Classifier showed the best performance with:
 
 ## Author
 
-[Your Name]
+Mohamed Hesham
 
 ## License
 
